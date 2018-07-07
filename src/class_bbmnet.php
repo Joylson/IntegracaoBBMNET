@@ -49,29 +49,11 @@ class Bbmnet {
      * Cria os parâmetros que serão utilizados para a conexão com o Web Service
      * @return array;
      */
-    private function getParametrosConexao() {
-//        
-//        $aOptions = Array(
-//					'ssl' => Array(
-//						 'verify_peer'       => false
-//						,'allow_self-signed' => true
-//						,'ciphers'           => 'TLSv1.2'
-//					)
-//					,'https' => Array(
-//						 'curl_verify_ssl_peer' => false
-//						,'curl_verify_ssl_host' => false
-//					)
-//				);
-        
+    private function getParametrosConexao() {        
         $aParametros = ['cache_wsdl'     => WSDL_CACHE_NONE, 
                         'encoding'       => 'ISO-8859-1', 
                         'exceptions'     => $this->exception, 
                         'trace'          => $this->trace, 
-                        //'stream_context' => stream_context_create($aOptions),
-                        /*'proxy_host'     => $this->config['proxy_host'],
-                        'proxy_port'     => $this->config['proxy_porta'],
-                        'proxy_login'    => $this->config['proxy_login'],
-                        'proxy_password' => $this->config['proxy_senha'],*/
                         'soap_version'   => 'SOAP_1_2',
                         'cache_wsdl'     => 0];
         
