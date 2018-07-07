@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Edital>
+    <Numero>0841/2018</Numero>
+    <CodigoAta>37</CodigoAta>
+    <CodigoModelo>0</CodigoModelo>
+    <CodigoContrato>0</CodigoContrato>
+    <DistribuicaoPrecoLinear>false</DistribuicaoPrecoLinear>
+    <CodigoUnicoEdital>259</CodigoUnicoEdital>
+    <IndicadorPublicacao>true</IndicadorPublicacao>
+    <QuantidadeFotos>0</QuantidadeFotos>
+    <QuantidadeAnexos>1</QuantidadeAnexos>
+    <CodigoAnexo>0</CodigoAnexo>
+    <Modalidade>Pregao</Modalidade>
+    <SubModalidade>ContratacaoServicos</SubModalidade>
+    <TipoLicitacao>LICPUB</TipoLicitacao>
+    <FormaCotacao>MenorPreco</FormaCotacao>
+    <TipoTermino>Randomico_Manual</TipoTermino>
+    <ValorOfertadoPor>Unitario</ValorOfertadoPor>
+    <CodigoObjeto>0</CodigoObjeto>
+    <DescObjeto>Exemplo utilizando classe de integração</DescObjeto>
+    <CodigoPregoeiro>1</CodigoPregoeiro>
+    <LoginPregoeiro>LOGIN DE PREGOEIRO</LoginPregoeiro>
+    <InicioRecebimentoPropostas>2018-05-31T17:00:00</InicioRecebimentoPropostas>
+    <FimRecebimentoPropostas>2018-05-31T17:59:00</FimRecebimentoPropostas>
+    <AberturaExamePropostas>2018-05-31T18:00:00</AberturaExamePropostas>
+    <ValidadeProposta>1</ValidadeProposta>
+    <DuracaoEtapaLances>5</DuracaoEtapaLances>
+    <PrevisaoTermino>2018-05-31T23:59:59</PrevisaoTermino>
+    <FaxHabilitacao>hahhah</FaxHabilitacao>
+    <TipoParticipanteLicitacao>AmplaParticipacao</TipoParticipanteLicitacao>
+    <DesclassificacaoRegra10>false</DesclassificacaoRegra10>
+    <PrazoValidadeRegPreco>0</PrazoValidadeRegPreco>
+    <AberturaPrgLeiCot>1999-11-30T00:00:00</AberturaPrgLeiCot>
+    <Lotes>
+        <Lote>
+            <Numero>1</Numero>
+            <QuantidadeCasasDecimais>2</QuantidadeCasasDecimais>
+            <ValorTotal>3250.000000000</ValorTotal>
+            <FlagMarcaProduto>false</FlagMarcaProduto>
+            <FlagPrecoReferencia>false</FlagPrecoReferencia>
+            <FlagEspecificacao>false</FlagEspecificacao>
+            <FlagArquivoTecnico>false</FlagArquivoTecnico>
+            <VariacaoMinima>0</VariacaoMinima>
+            <Itens>
+                <ItemLote>
+                    <Numero>1</Numero>
+                    <CodigoUnidade>5</CodigoUnidade>
+                    <Quantidade>15</Quantidade>
+                    <Preco>200.0000</Preco>
+                    <IcmsAliquota>0</IcmsAliquota>
+                    <IcmsDestino />
+                    <IcmsTipo>Nenhum</IcmsTipo>
+                    <Produto>
+                        <Codigo>86351</Codigo>
+                        <CodigoFamilia>0</CodigoFamilia>
+                        <Descricao />
+                        <Modalidade>Nenhum</Modalidade>
+                    </Produto>
+                </ItemLote>
+            </Itens>
+        </Lote>
+    </Lotes>
+    <Anexos />
+    <Convidados />
+    <EquipeApoio>
+        <MembroEquipeApoio>
+            <Login>LOGIN DE EQUIPE DE APOIO</Login>
+        </MembroEquipeApoio>
+    </EquipeApoio>
+</Edital>
